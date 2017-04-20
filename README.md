@@ -1,4 +1,7 @@
-# test coverage for  [socket.io-stream (v0.9.1)](https://github.com/nkzawa/socket.io-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-socket.io-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-socket.io-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-socket.io-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-socket.io-stream)
+# npmtest-socket.io-stream
+
+#### basic test coverage for  [socket.io-stream (v0.9.1)](https://github.com/nkzawa/socket.io-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-socket.io-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-socket.io-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-socket.io-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-socket.io-stream)
+
 #### stream for socket.io
 
 [![NPM](https://nodei.co/npm/socket.io-stream.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/socket.io-stream)
